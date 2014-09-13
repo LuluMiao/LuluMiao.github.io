@@ -6,8 +6,8 @@ rdiscount:
 comments :
    provider: disqus
    disqus:
-     short_name:  joearmstrongsblog
+     short_name: LULU
 
-name: Joe Armstrong's blog
-description: Joe Armstrong's Erlang and other stuff blog
-url: http://joearms.github.com
+name: Lulu's blog
+description: 喵星人的地盘儿
+url: http://howiewang.github.com
