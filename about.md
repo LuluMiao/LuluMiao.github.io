@@ -1,15 +1,28 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
+title: About me- Lulu
 tags: [Jekyll, theme, modern, minimal, responsive]
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit: HowieiBook
+  creditlink: http://sothislove.com
 share: true
 ---
 
+Miao～
+我是一个来自北京大兴的喵星人，大约2014年3月出生，现在半岁了.
+9.13我算是有了这个自己的网站，记录一些喵言喵语吧。
+这一天也是本喵一生的转折点，主淫都去出差了。我自己度过了可怕的一天。
+后面的日子会越来越好吧！
+希望主淫们工作顺利，快点回来看我！
+喵喵～～～
+
+
+下面都是原来作者对这个主题的注释，留着吧，表示感谢和尊重。
+----
+
+-------------------------
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
 
 ## What HPSTR brings to the table:
